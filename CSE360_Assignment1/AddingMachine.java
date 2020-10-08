@@ -30,12 +30,12 @@ public class AddingMachine {
  * This is a public method that subtracts the integer represented by the value from the total
  */
   public void subtract (int value) {
-  }
+  } 
 /*
  * (non-Javadoc)
  * @see java.lang.Object#toString()
  * 
- * The toString is used to return a string representation of an object
+ * The toString is returns a string representation of an object
  */
  
   public String toString () {
